@@ -3,7 +3,7 @@ package package1;
 public class Class1 {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        int c = a+b;
+        int c = 600;
         System.out.println("Value of C  = "+c);
     }
 }
